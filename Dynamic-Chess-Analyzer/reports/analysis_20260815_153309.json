@@ -1,0 +1,17 @@
+{
+    "result": "*",
+    "total_moves": 1,
+    "moves": [
+        {
+            "move_number": 1,
+            "player": "White",
+            "move": "h2h3",
+            "best_move": "e2e4",
+            "quality": "Mistake",
+            "centipawn_loss": 56,
+            "evaluation_before": 49,
+            "evaluation_after": -10,
+            "fen": "rnbqkbnr/pppppppp/8/8/8/7P/PPPPPPP1/RNBQKBNR b KQkq - 0 1"
+        }
+    ]
+}
